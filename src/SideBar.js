@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import makeStyles from "@mui/styles/makeStyles";
-import { Button, Divider, Grid, Typography } from "@mui/material";
+import { Button, Typography } from "@mui/material";
 import SideContent from "./SideContent";
 
 const useStyles = makeStyles(() => ({

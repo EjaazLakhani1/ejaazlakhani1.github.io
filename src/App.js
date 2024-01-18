@@ -7,10 +7,7 @@ import { Divider, Grid, Typography } from "@mui/material";
 
 const useStyles = makeStyles(() => ({
   body: {
-    // backgroundImage: "linear-gradient(15deg, #13547a 0%, #80d0c7 100%);",
-    // background: "#2C3351",
     minHeight: 100,
-    // height: "100vh",
     minWidth: "300px",
   },
   header: {
